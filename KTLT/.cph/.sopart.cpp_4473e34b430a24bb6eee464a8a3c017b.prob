@@ -1,0 +1,1 @@
+{"name":"Local: sopart","url":"d:\\C++\\KTLT\\sopart.cpp","tests":[{"id":1684848965690,"input":"5\n3\n14 6 41 \n5\n20 125 137 232 370 \n8\n436 888 838 714 661 193 156 583 \n6\n239 244 267 275 285 287 \n9\n438 295 479 84 199 389 335 156 163","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\KTLT\\sopart.cpp","group":"local","local":true}

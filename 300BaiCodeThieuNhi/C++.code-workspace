@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/Docute/English-Words-Definitions-and-Parts-of-Speech"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"valarray": "cpp",
+			"functional": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}

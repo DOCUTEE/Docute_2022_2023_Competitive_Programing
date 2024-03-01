@@ -1,0 +1,1 @@
+{"name":"Local: time","url":"d:\\C++\\KTLT\\time.cpp","tests":[{"id":1684590989331,"input":"1\n5 \n3 1 4 5 2\n","output":""},{"id":1684591003765,"input":"9960594\n2551\n2557","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\KTLT\\time.cpp","group":"local","local":true}

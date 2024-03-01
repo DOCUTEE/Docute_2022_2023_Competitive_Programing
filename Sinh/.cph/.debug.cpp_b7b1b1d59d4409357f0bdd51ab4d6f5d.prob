@@ -1,0 +1,1 @@
+{"name":"Local: debug","url":"d:\\C++\\Sinh\\debug.cpp","tests":[{"id":1685303900442,"input":"7 10\ncheck 4 6\nunion 3 6\nget 5\nget 5\nget 3\ncheck 1 1\ncheck 5 3\ncheck 6 6\nunion 2 2\nunion 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Sinh\\debug.cpp","group":"local","local":true}
